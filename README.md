@@ -1,6 +1,4 @@
-# Ijo App API <!-- omit in toc -->
-
-> API server for IJOL app
+# Node API Boilrplate <!-- omit in toc -->
 
 - [Getting started](#getting-started)
   - [Prerequisites](#prerequisites)
